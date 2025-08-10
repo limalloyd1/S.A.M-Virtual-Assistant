@@ -15,6 +15,7 @@ There are certain buzzwords that will activate functions to complete the various
 "search" will begin the wiki_search function
 "joke" will tell a joke
 "to do list" will activate the todo list function
+"remove task" or "delete task" will activate the removing tasks function
 "stop" or "shutdown" will stop the program 
 
 This project is still a work in progress and will continuously receive updates over time 
